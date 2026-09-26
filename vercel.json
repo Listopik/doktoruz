@@ -1,0 +1,6 @@
+{
+  "cleanUrls": true,
+  "functions": {
+    "api/router.js": {"runtime": "nodejs20.x"}
+  }
+}

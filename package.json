@@ -1,0 +1,8 @@
+{
+  "name": "doktoruz-production",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {"node": ">=20"},
+  "scripts": {"dev": "node dev-server.js"},
+  "dependencies": {"pg": "^8.13.1"}
+}
